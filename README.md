@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed M Tonsy</h1>
 <h3 align="center">A passionate Data Analytics from Egypt</h3>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 - 🌱 I’m currently learning **SQL,DATABASE,ML,DATA WARAHOUSE,STATISTICS**
 
 - 📫 How to reach me **ahmedmohamedtonsy@gmail.com**
+  
+- 📄 Know about my experiences
+- [Resume](https://drive.google.com/file/d/1oTfvCGgp9CgiBUc46ISZe914PrVGTmbj/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
